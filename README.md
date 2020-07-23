@@ -1,0 +1,2 @@
+# qazam
+Belajar hack
